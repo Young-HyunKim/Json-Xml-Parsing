@@ -13,5 +13,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_191/lib/ext/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_191/lib/ext/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_191/lib/ext/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_191/lib/ext/ojdbc6_g.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
